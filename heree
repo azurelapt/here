@@ -1,7 +1,7 @@
 
 
 whitelistedHWID ={
-    {'', 'u', 's'}, ---U is For Load, S is For Security, B Is for Blacklist
+    {'446ae84189ecb4bc6c88b5d25b8cd638272a7791972f79ca620889012a5857b5e681921453ff0008b1296c6901ffd7ff3a80c49918cb08dcf7d04bbde1ed746a', 'u', 's'}, ---U is For Load, S is For Security, B Is for Blacklist
      
          
 }
