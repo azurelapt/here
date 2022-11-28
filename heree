@@ -2,6 +2,6 @@
 
 whitelistedHWID ={
     {'446ae84189ecb4bc6c88b5d25b8cd638272a7791972f79ca620889012a5857b5e681921453ff0008b1296c6901ffd7ff3a80c49918cb08dcf7d04bbde1ed746a', 'u', 's'}, ---U is For Load, S is For Security, B Is for Blacklist
-     
-         
+         {'c46d6397884e93f995257cf0919e32d3a9e0e3300295c0712a238810cd1ecb0ff611ad9bc93897c6d4e368307a4db260aa657c0e34f1d9806df5e707134af8bb', 'u', 's'}, ---U is For Load, S is For Security, B Is for Blacklist
+{'3be9e94e03b84d90648fa8a9c00dafe87d41de5c0585d30d0830f5360022d2ddc31c6c936f3462f19909770d1038950384ff4f8176f301ef1e9d10b25a77e9ae', 'u', 's'}, ---U is For Load, S is For Security, B Is for Blacklist
 }
