@@ -1,0 +1,7 @@
+
+
+whitelistedHWID ={
+    {'', 'u', 's'}, ---U is For Load, S is For Security, B Is for Blacklist
+     
+         
+}
